@@ -1,5 +1,3 @@
-# SLC6A1_manuscript_files
-
 # SLC6A1 variant pathogenicity, molecular function, and phenotype: a genetic and clinical analysis
 
 ## Abstract
